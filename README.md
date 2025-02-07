@@ -1,6 +1,6 @@
 # TucoT9  
 
-**German Developer | AI Specialist | Cybersecurity Expert**  ![image](https://github.com/user-attachments/assets/024ade4e-1077-4c0a-a9a2-1776dc8ac867)
+**German Developer | AI Specialist | Cybersecurity Expert** 
 
 
 ---
