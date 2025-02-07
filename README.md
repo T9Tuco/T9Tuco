@@ -1,6 +1,6 @@
 # TucoT9  
 
-**German Developer | AI Specialist | Cybersecurity Expert**  
+**German Developer | AI Specialist | Cybersecurity Expert**  https://avatars.githubusercontent.com/u/186250778?v=4&size=64
 
 ---
 
