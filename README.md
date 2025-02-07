@@ -48,3 +48,9 @@ I’m the creator of **NexusNG AI**, a revolutionary AI assistant transforming s
 
 - **Website**: [tucot9.com](https://tucot9.com/)  
 - **Discord**: [Join the NexusNG Community](https://discord.gg/nexusng) *(Username: **tucot9**)*
+
+---
+
+## GitHub Stats
+
+![T9Tuco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T9Tuco&show_icons=true&theme=radical)
