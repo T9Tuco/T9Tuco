@@ -22,7 +22,7 @@ I’m the creator of **NexusNG AI**, a revolutionary AI assistant transforming s
 
 ## 🚀 Projects  
 
-### **NexusNG**  
+### **NexusNG** <svg xmlns="http://www.w3.org/2000/svg" width="111.76569938659668" height="35" viewBox="0 0 111.76569938659668 35"><rect width="67.78129959106445" height="35" fill="#000000"/><rect x="67.78129959106445" width="43.98439979553223" height="35" fill="#d0220e"/><text x="33.89064979553223" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#fc2323" text-anchor="middle" letter-spacing="2">NEXUS</text><text x="89.77349948883057" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#252323" text-anchor="middle" font-weight="900" letter-spacing="2">NG</text></svg>
 *NexusNG* is an advanced AI assistant designed to streamline coding and software development. Its state-of-the-art **natural language processing** and **machine learning** features make it a game-changer for developers.  
 
 🌐 [Explore NexusNG](https://nexusng.site/)  
