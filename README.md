@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 
-As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**. With over a decade of experience, I’ve developed innovative solutions and tools that push the boundaries of modern technology.  
+As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**.
 
 I’m the creator of **NexusNG AI**, a revolutionary AI assistant transforming software development, and a member of the **T9 group**, where I collaborate with industry leaders to solve complex challenges in AI and cybersecurity.  
 
