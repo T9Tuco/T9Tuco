@@ -110,6 +110,7 @@ A powerful solution tailored for **Roblox script developers** and security exper
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   
 </div>
 
@@ -123,6 +124,7 @@ A powerful solution tailored for **Roblox script developers** and security exper
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NexusNG](https://img.shields.io/badge/-NexusNG-00BFFF?style=flat-square&logo=ai&logoColor=white)
   
 </div>
 
@@ -137,6 +139,10 @@ A powerful solution tailored for **Roblox script developers** and security exper
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Datalix](https://img.shields.io/badge/-Datalix-FF6B6B?style=flat-square&logo=server&logoColor=white)
+![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
   
 </div>
 
@@ -161,6 +167,7 @@ A powerful solution tailored for **Roblox script developers** and security exper
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-5391FE?style=flat-square&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Black Arch](https://img.shields.io/badge/-Black_Arch-333333?style=flat-square&logo=arch-linux&logoColor=white)
   
 </div>
 
