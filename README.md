@@ -1,76 +1,102 @@
+<div align="center">
+  
 # TucoT9
 
 **German Developer | AI Specialist | Cybersecurity Expert**
 
-![Profile Banner](https://img.shields.io/badge/TucoT9-Developer-blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=T9Tuco&color=blueviolet&style=flat-square)](https://github.com/T9Tuco)
+[![GitHub followers](https://img.shields.io/github/followers/T9Tuco?style=flat-square&color=blueviolet)](https://github.com/T9Tuco?tab=followers)
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TucoT9-Developer-blue?style=for-the-badge" alt="TucoT9 Developer" />
+</div>
+
+<br>
 
 ## 🌟 About Me
 
 As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**.
 
-I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming software development, and a member of the **T9 group** (https://t9.rocks for more infos), where I collaborate with industry leaders to solve complex challenges in AI and cybersecurity.
+I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming software development, and a member of the **T9 group**, where I collaborate with industry leaders to solve complex challenges in AI and cybersecurity.
+
+<div align="center">
+  
+[![T9.rocks](https://img.shields.io/badge/T9.rocks-WHITE_HAT_HACKER_COLLECTIVE-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjJzOC04IDgtMTRhOCA4IDAgMSAwLTE2IDBjMCA2IDggMTQgOCAxNHoiPjwvcGF0aD48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjMiPjwvY2lyY2xlPjwvc3ZnPg==)](https://t9.rocks)
+
+</div>
 
 ### 🛠️ Expertise
-- **Artificial Intelligence** & Machine Learning
-- **Natural Language Processing**
-- **Cybersecurity** & Ethical Hacking
-- **Automation**
-- **Full-Stack Development**
-- **Cloud Computing & DevOps**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-AI_&_Machine_Learning-FF6F00?style=for-the-badge" alt="AI & ML" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Natural_Language_Processing-4285F4?style=for-the-badge" alt="NLP" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Cybersecurity-E34F26?style=for-the-badge" alt="Cybersecurity" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Automation-00C7B7?style=for-the-badge" alt="Automation" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/-Full--Stack_Development-61DAFB?style=for-the-badge" alt="Full-Stack" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Cloud_Computing_&_DevOps-232F3E?style=for-the-badge" alt="Cloud & DevOps" /></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### **CoreHub.lol**
-*Open-source project hub for developers and businesses*
-
-CoreHub.lol provides high-quality open-source project bases that accelerate development and foster innovation. The platform follows the philosophy of "CODE. SHARE. INNOVATE." to create a collaborative ecosystem for developers.
-
 <div align="center">
-  
-[![Visit CoreHub.lol](https://img.shields.io/badge/Visit-CoreHub.lol-8A2BE2?style=for-the-badge&logo=globe)](https://corehub.lol/)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-corehub--lol-8A2BE2?style=for-the-badge&logo=github)](https://github.com/corehub-lol)
-  
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">CoreHub.lol</h3>
+        <p align="center"><i>Open-source project hub for developers and businesses</i></p>
+        <p align="center">CoreHub.lol provides high-quality open-source project bases that accelerate development and foster innovation. The platform follows the philosophy of "CODE. SHARE. INNOVATE." to create a collaborative ecosystem for developers.</p>
+        <p align="center">
+          <a href="https://corehub.lol/"><img src="https://img.shields.io/badge/Visit-CoreHub.lol-8A2BE2?style=for-the-badge&logo=globe" alt="Visit CoreHub.lol" /></a>
+          <a href="https://github.com/corehub-lol"><img src="https://img.shields.io/badge/GitHub-corehub--lol-8A2BE2?style=for-the-badge&logo=github" alt="GitHub Organization" /></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">NexusNG</h3>
+        <p align="center"><i>An advanced AI assistant for streamlined coding and software development</i></p>
+        <p align="center">NexusNG leverages state-of-the-art <b>natural language processing</b> and <b>machine learning</b> to revolutionize the development workflow. It understands context, suggests optimizations, and helps developers write better code faster.</p>
+        <p align="center">
+          <a href="https://nexusng.site/"><img src="https://img.shields.io/badge/Explore-NexusNG-blue?style=for-the-badge&logo=globe" alt="Explore NexusNG" /></a>
+          <a href="https://nexusng.de/"><img src="https://img.shields.io/badge/Chat-NexusNG-green?style=for-the-badge&logo=chat" alt="Chat with NexusNG" /></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">SpoofMail</h3>
+        <p align="center"><i>Professional-grade tool for email security testing</i></p>
+        <p align="center">Designed for <b>cybersecurity professionals</b> and <b>ethical hackers</b>, SpoofMail enables authorized security testing by sending emails from any domain to detect vulnerabilities in email systems.</p>
+        <p align="center">
+          <a href="https://spoofmail.tucot9.com/"><img src="https://img.shields.io/badge/Try-SpoofMail-red?style=for-the-badge&logo=mail" alt="Try SpoofMail" /></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">SecureScanner</h3>
+        <p align="center"><i>Comprehensive security auditing tool</i></p>
+        <p align="center">A powerful solution tailored for <b>Roblox script developers</b> and security experts, providing <b>penetration testing</b>, vulnerability scanning, and comprehensive security analysis.</p>
+        <p align="center">
+          <a href="https://cheat.tucot9.com/"><img src="https://img.shields.io/badge/Explore-SecureScanner-purple?style=for-the-badge&logo=shield" alt="Explore SecureScanner" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
-### **NexusNG**
-*An advanced AI assistant for streamlined coding and software development*
-
-NexusNG leverages state-of-the-art **natural language processing** and **machine learning** to revolutionize the development workflow. It understands context, suggests optimizations, and helps developers write better code faster.
-
-<div align="center">
-  
-[![Explore NexusNG](https://img.shields.io/badge/Explore-NexusNG-blue?style=for-the-badge&logo=globe)](https://nexusng.site/)
-[![Chat with NexusNG](https://img.shields.io/badge/Chat-NexusNG-green?style=for-the-badge&logo=chat)](https://nexusng.de/)
-  
-</div>
-
----
-
-### **SpoofMail**
-*Professional-grade tool for email security testing*
-
-Designed for **cybersecurity professionals** and **ethical hackers**, SpoofMail enables authorized security testing by sending emails from any domain to detect vulnerabilities in email systems.
-
-<div align="center">
-  
-[![Try SpoofMail](https://img.shields.io/badge/Try-SpoofMail-red?style=for-the-badge&logo=mail)](https://spoofmail.tucot9.com/)
-  
-</div>
-
----
-
-### **SecureScanner**
-*Comprehensive security auditing tool*
-
-A powerful solution tailored for **Roblox script developers** and security experts, providing **penetration testing**, vulnerability scanning, and comprehensive security analysis.
-
-<div align="center">
-  
-[![Explore SecureScanner](https://img.shields.io/badge/Explore-SecureScanner-purple?style=for-the-badge&logo=shield)](https://cheat.tucot9.com/)
-  
-</div>
 
 ## 💻 Tech Stack
 
@@ -161,26 +187,36 @@ A powerful solution tailored for **Roblox script developers** and security exper
   </table>
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-tucot9.com-blue?style=for-the-badge&logo=globe)](https://tucot9.com/)
-[![Discord](https://img.shields.io/badge/Discord-tucot9-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nexusng)
-  
+  <a href="https://tucot9.com/">
+    <img src="https://img.shields.io/badge/Website-tucot9.com-blue?style=for-the-badge&logo=globe" alt="Website" />
+  </a>
+  <a href="https://discord.gg/nexusng">
+    <img src="https://img.shields.io/badge/Discord-tucot9-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/T9Tuco">
+    <img src="https://img.shields.io/badge/GitHub-T9Tuco-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![T9Tuco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T9Tuco&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T9Tuco&layout=compact&theme=radical)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=T9Tuco&show_icons=true&theme=radical" alt="T9Tuco's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9Tuco&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T9Tuco&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hi!</i>
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-FF6B6B?style=for-the-badge" alt="Thanks for visiting!" />
+  <p><i>Feel free to reach out for collaborations or just to say hi!</i></p>
 </div>
