@@ -8,7 +8,7 @@
 
 As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**.
 
-I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming software development, and a member of the **T9 group**, where I collaborate with industry leaders to solve complex challenges in AI and cybersecurity.
+I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming software development, and a member of the **T9 group** (https://t9.rocks for more infos), where I collaborate with industry leaders to solve complex challenges in AI and cybersecurity.
 
 ### 🛠️ Expertise
 - **Artificial Intelligence** & Machine Learning
