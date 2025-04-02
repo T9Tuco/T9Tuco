@@ -195,7 +195,7 @@ I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming sof
   <a href="https://tucot9.com/">
     <img src="https://img.shields.io/badge/Website-tucot9.com-blue?style=for-the-badge&logo=globe" alt="Website" />
   </a>
-  <a href="https://discord.gg/nexusng">
+  <a href="https://discord.com/users/718832241127718915">
     <img src="https://img.shields.io/badge/Discord-tucot9-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/T9Tuco">
