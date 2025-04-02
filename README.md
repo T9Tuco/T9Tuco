@@ -69,7 +69,7 @@ I'm the creator of **NexusNG AI**, a revolutionary AI assistant transforming sof
         <p align="center">NexusNG leverages state-of-the-art <b>natural language processing</b> and <b>machine learning</b> to revolutionize the development workflow. It understands context, suggests optimizations, and helps developers write better code faster.</p>
         <p align="center">
           <a href="https://nexusng.site/"><img src="https://img.shields.io/badge/Explore-NexusNG-blue?style=for-the-badge&logo=globe" alt="Explore NexusNG" /></a>
-          <a href="https://nexusng.de/"><img src="https://img.shields.io/badge/Chat-NexusNG-green?style=for-the-badge&logo=chat" alt="Chat with NexusNG" /></a>
+          <a href="https://nexusng.de/"><img src="https://img.shields.io/badge/Chat-NexusNG-red?style=for-the-badge&logo=chat" alt="Chat with NexusNG" /></a>
         </p>
       </td>
     </tr>
