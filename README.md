@@ -19,7 +19,7 @@
 
 As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**.
 
-I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of the **T9 group**, where I collaborate with industry leaders to solve complex challenges cybersecurity.
+I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of the **T9 group**, where I collaborate with ethical hackers to solve challenges in cybersecurity.
 
 <div align="center">
   
