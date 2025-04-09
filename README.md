@@ -15,7 +15,7 @@
 
 <br>
 
-## 🌟 About Me
+## About Me
 
 As a **developer from Germany**, I specialize in **AI development**, **automation tools**, and **cybersecurity**.
 
@@ -27,7 +27,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
 
 </div>
 
-### 🛠️ Expertise
+### Expertise
 <div align="center">
   <table>
     <tr>
@@ -47,7 +47,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table>
@@ -98,13 +98,13 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <h3>🔤 Languages</h3>
+        <h3> Languages</h3>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -115,7 +115,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
       </td>
       <td align="center">
-        <h3>🌐 Frontend</h3>
+        <h3> Frontend</h3>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
@@ -127,7 +127,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
     </tr>
     <tr>
       <td align="center">
-        <h3>⚙️ Backend</h3>
+        <h3>⚙ Backend</h3>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -137,7 +137,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       </td>
       <td align="center">
-        <h3>🧠 AI & ML</h3>
+        <h3> AI & ML</h3>
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
@@ -149,7 +149,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
     </tr>
     <tr>
       <td align="center">
-        <h3>☁️ DevOps & Cloud</h3>
+        <h3> DevOps & Cloud</h3>
         <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
         <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -161,7 +161,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
         <img src="https://img.shields.io/badge/-Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" alt="Plesk" />
       </td>
       <td align="center">
-        <h3>🛢️ Databases</h3>
+        <h3> Databases</h3>
         <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -174,7 +174,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <h3>🔒 Cybersecurity</h3>
+        <h3> Cybersecurity</h3>
         <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
         <img src="https://img.shields.io/badge/-Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -189,7 +189,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://tucot9.com/">
@@ -203,7 +203,7 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
   </a>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T9Tuco&show_icons=true&theme=radical" alt="T9Tuco's GitHub Stats" />
