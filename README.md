@@ -210,9 +210,6 @@ I'm one of the developers of **NexusNG** and **CoreHub.lol**,  and a member of t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9Tuco&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T9Tuco&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
