@@ -28,9 +28,9 @@ Here is a selection of projects I am significantly involved in. More projects I 
     * An open-source hub for developers and businesses, providing high-quality project bases to accelerate development and foster innovation. I am an active contributor to many of its hosted projects.
     * **Links:** [Website](https://corehub.lol/) │ [GitHub](https://github.com/corehub-lol)
 
-* **[NexusNG](https://nexusng.site/)**
+* **NexusNG**
     * An advanced AI assistant designed to streamline the software development workflow using state-of-the-art Natural Language Processing and Machine Learning.
-    * **Links:** [Website](https://nexusng.site/) │ [Chat App](https://nexusng.de/)
+    * **Note:** The project is currently offline as the domains could no longer be maintained.
 
 * **[SignalVoid](https://signalvoid.org/)**
     * An open-source hardware project to create a versatile, portable tool for security research. SignalVoid is engineered with custom hardware and firmware to provide advanced capabilities in radio frequency analysis, RFID/NFC interaction, and infrared communication within an extensible platform.
@@ -60,7 +60,6 @@ Here is a selection of projects I am significantly involved in. More projects I 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  
 </p>
 <p>
   <strong>AI & Machine Learning:</strong><br>
