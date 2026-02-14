@@ -1,7 +1,7 @@
 <div align="center">
 
-# TucoT9
-**German Developer │ AI Specialist │ Cybersecurity Expert**
+# hi, i'm tuco.
+**developer │ breaker of things │ professional googler**
 
 <p>
   <a href="https://github.com/T9Tuco"><img src="https://komarev.com/ghpvc/?username=T9Tuco&color=4c566a&style=for-the-badge" alt="Profile Views"/></a>
@@ -12,37 +12,37 @@
 
 ---
 
-### About Me
+### about me
 
-I am a developer from Germany specializing in **Artificial Intelligence**, **Automation**, and **Cybersecurity**.
+i'm a developer from germany who likes **artificial intelligence**, **automation**, and **cybersecurity**.
 
-As a co-developer of **NexusNG** and **CoreHub.lol**, and a member of the **T9 Group** ([t9.rocks](https://t9.rocks)), I collaborate with fellow ethical hackers to tackle complex challenges in digital security. My goal is to create robust, intelligent, and valuable software solutions.
+i hang out with the **T9 Group** ([t9.rocks](https://t9.rocks)) and help maintain **CoreHub.lol**. mostly i just write code, break things, and try to fix them before anyone notices.
 
 ---
 
-### Featured Projects
+### stuff i work on
 
-Here is a selection of projects I am significantly involved in. More projects I contribute to can be found at the [CoreHub.lol GitHub Organization](https://github.com/corehub-lol).
+here are some projects i haven't abandoned yet. check out [CoreHub.lol](https://github.com/corehub-lol) for more.
 
 * **[CoreHub.lol](https://corehub.lol/)**
-    * An open-source hub for developers and businesses, providing high-quality project bases to accelerate development and foster innovation. I am an active contributor to many of its hosted projects.
-    * **Links:** [Website](https://corehub.lol/) │ [GitHub](https://github.com/corehub-lol)
+    * an open-source collective where we dump our cool projects. it's actually pretty useful.
+    * **links:** [website](https://corehub.lol/) │ [github](https://github.com/corehub-lol)
 
 * **NexusNG**
-    * An advanced AI assistant designed to streamline the software development workflow using state-of-the-art Natural Language Processing and Machine Learning.
-    * **Note:** The project is currently offline as the domains could no longer be maintained.
+    * an ai assistant project i worked on.
+    * **status:** dead. rip. (domains expired because i'm broke).
 
 * **[SignalVoid](https://signalvoid.org/)**
-    * An open-source hardware project to create a versatile, portable tool for security research. SignalVoid is engineered with custom hardware and firmware to provide advanced capabilities in radio frequency analysis, RFID/NFC interaction, and infrared communication within an extensible platform.
-    * **Link:** [Website](https://signalvoid.org/)
+    * open-source hardware for security research. it's a portable tool for analyzing radio frequencies and other wireless magic.
+    * **link:** [website](https://signalvoid.org/)
 
 ---
 
-### Tech Stack
+### tech stack
 
 <div align="center">
 <p>
-  <strong>Languages:</strong><br>
+  <strong>languages i speak (fluentlyish):</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -50,32 +50,32 @@ Here is a selection of projects I am significantly involved in. More projects I 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 <p>
-  <strong>Frontend:</strong><br>
+  <strong>frontend (making divs move):</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 <p>
-  <strong>Backend:</strong><br>
+  <strong>backend (the real work):</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 <p>
-  <strong>AI & Machine Learning:</strong><br>
+  <strong>ai & magic:</strong><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 <p>
-  <strong>DevOps & Cloud:</strong><br>
+  <strong>devops (yaml engineer):</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 <p>
-  <strong>OS & Cybersecurity Tools:</strong><br>
+  <strong>tools i use to break stuff:</strong><br>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
@@ -85,7 +85,7 @@ Here is a selection of projects I am significantly involved in. More projects I 
 
 ---
 
-### Connect With Me
+### where to find me
 
 <div align="center">
 <p>
@@ -101,7 +101,7 @@ Here is a selection of projects I am significantly involved in. More projects I 
 </p>
 </div>
 
-### GitHub Stats
+### github stats (please validate me)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T9Tuco&show_icons=true&theme=nord&border_color=4c566a&hide_border=true" alt="T9Tuco's GitHub Stats"/>
