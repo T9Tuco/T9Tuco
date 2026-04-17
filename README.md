@@ -1,7 +1,7 @@
 <div align="center">
 
 # hi, i'm tuco.
-**developer │ breaker of things │ professional googler**
+**developer │ breaker of things │ professional googler | cat lover**
 
 <p>
   <a href="https://github.com/T9Tuco"><img src="https://komarev.com/ghpvc/?username=T9Tuco&color=4c566a&style=for-the-badge" alt="Profile Views"/></a>
@@ -14,7 +14,7 @@
 
 ### about me
 
-i'm a developer from germany who likes **artificial intelligence**, **automation**, and **cybersecurity**.
+i'm a developer from germany who likes **artificial intelligence**, **automation**,**cats**, and **cybersecurity**.
 
 i hang out with the **T9 Group** ([t9.rocks](https://t9.rocks)) and help maintain **CoreHub.lol**. mostly i just write code, break things, and try to fix them before anyone notices.
 
