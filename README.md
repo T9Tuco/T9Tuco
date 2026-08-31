@@ -14,7 +14,7 @@
 
 ### about me
 
-i'm a developer from germany who likes **artificial intelligence**, **automation**,**cats**, and **cybersecurity**.
+i'm a developer from germany who likes **artificial intelligence**, **automation**, **cats**, and **cybersecurity**.
 
 i hang out with the **T9 Group** ([t9.rocks](https://t9.rocks)) and help maintain **CoreHub.lol**. mostly i just write code, break things, and try to fix them before anyone notices.
 
@@ -28,13 +28,13 @@ here are some projects i haven't abandoned yet. check out [CoreHub.lol](https://
     * an open-source collective where we dump our cool projects. it's actually pretty useful.
     * **links:** [website](https://corehub.lol/) │ [github](https://github.com/corehub-lol)
 
-* **[project-argus](https://github.com/T9Tuco/project-argus)**
-    * a python-based network scanner and monitor built for the terminal. arp sweeps, tcp port scans, icmp ping, and continuous subnet monitoring. no electron, no install wizard, no nonsense. just clone, install two deps, and start breaking networks responsibly.
-    * **link:** [github](https://github.com/T9Tuco/project-argus)
+* **[archvital](https://github.com/T9Tuco/archvital)**
+    * a desktop system monitor for arch, written in c++20 with qt6. cpu, memory, gpu, disks, network and tasks each get their own page, plus diagnostics and themes you can actually change. the point was something detailed enough to be useful but still calm to look at for longer than ten seconds. it's on the aur as `archvital` and `archvital-git`.
+    * **link:** [github](https://github.com/T9Tuco/archvital)
 
-* **[SignalVoid](https://signalvoid.org/)**
-    * open-source hardware for security research. it's a portable tool for analyzing radio frequencies and other wireless magic.
-    * **link:** [website](https://signalvoid.org/)
+* **homelab**
+    * a two node proxmox cluster at home, running a stack of lxc containers for dns, media, git and a few small web things. i spend way too much time in there, and most of my shell scripts exist because i broke something in it first.
+    * **links:** [poor-mans-ci](https://github.com/T9Tuco/poor-mans-ci) │ [cloudflare-tunnel-domain-helper](https://github.com/T9Tuco/cloudflare-tunnel-domain-helper)
 
 ---
 
