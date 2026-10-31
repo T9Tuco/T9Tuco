@@ -14,7 +14,7 @@
 
 ### about me
 
-i'm a developer from germany who likes **artificial intelligence**, **automation**, **cats**, and **cybersecurity**.
+i'm a developer from germany who likes ** self hosted artificial intelligence**, **automation**, **cats**, and **cybersecurity**.
 
 i hang out with the **T9 Group** ([t9.rocks](https://t9.rocks)) and help maintain **CoreHub.lol**. mostly i just write code, break things, and try to fix them before anyone notices.
 
